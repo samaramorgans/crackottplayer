@@ -2,7 +2,7 @@
 localStorage.setItem('user_login', 'halabja88');
 localStorage.setItem('user_password', 'halabja88');
 localStorage.setItem('$hlsplayer$', '3');
-localStorage.setItem('$devices$', '{"halabja88":["ca2bbb73e721fc6b69b83bdfbe521c4039403383","ACTIVE - تفعيل - چالاك كردن"]}');
+localStorage.setItem('$devices$', '{"halajba88":["48024000623e46ae9c9a73b84535f19a7845b0b5","unknown"]}');
 // Сохранение объекта (необходимо преобразовать в строку)
 const user = { name: 'John', age: 30 };
 localStorage.setItem('user', JSON.stringify(user));
